@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratapvishwajeet&label=Profile%20views&color=0e75b6&style=flat" alt="pratapvishwajeet" /> </p>
 
-- 🌱 I’m currently learning **Python,Java,Java Script**
+- 🌱 I’m currently learning **Python,Java,DSA**
 
 - 📫 How to reach me **pratapvishwajeet4@gmail.com**
 
