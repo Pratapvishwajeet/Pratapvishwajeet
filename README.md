@@ -17,7 +17,7 @@
 ## 🌐 Socials:
 
 [![Codechef](https://img.shields.io/badge/Codechef-%23FFFFFF.svg?logo=Codechef&logoColor=red)](https://www.codechef.com/users/pratap90)
-[![Leetcode](https://img.shields.io/badge/Leetcode-%23FFFFFF.svg?logo=Leetcode&logoColor=red)](https://leetcode.com/u/YfZXwn4q6O/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishwajeet-pratap-a5a628282)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vishwajeet6890) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Pratapstereo) 
